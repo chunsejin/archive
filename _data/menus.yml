@@ -2,11 +2,15 @@
   url: /
   external: false
 
-- title: archive
+- title: research
+  url: /about/
+  external: false # set true if you using external link, see below
+  
+- title: publication
   url: /archive/
   external: false
 
-- title: about
+- title: lecture
   url: /about/
   external: false # set true if you using external link, see below
 
