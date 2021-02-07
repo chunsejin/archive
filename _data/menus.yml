@@ -2,17 +2,26 @@
   url: /
   external: false
 
-- title: research
+- title: about
   url: /about/
   external: false # set true if you using external link, see below
+
+- title: research
+  url: /research/
+  external: false # set true if you using external link, see below
   
-- title: publication
-  url: /archive/
+- title: papers
+  url: /papers/
   external: false
 
 - title: lecture
-  url: /about/
+  url: /lecture/
   external: false # set true if you using external link, see below
+
+- title: archive
+  url: /archive/
+  external: false # set true if you using external link, see below
+
 
 # Example:
 # - title: github

@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: who am I? 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I’m Sejin Chun as a computer scientist. From March 2020, I am going to join an assistant professor in the Department of computer engineer at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do). Before joining the department, I worked at the National Institute of Standards and Technology([NIST](https://www.nist.gov/)) in the USA from 2018 to 2020 as a guest researcher.
 
-If you have a question about him or else, just send a letter to him.
+My primary research is reasoning over knowledge graphs. Reasoning can either deduct necessary knowledge with given conclusions([deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)) or induce possible conclusions from some evidence([inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)).
+I am interested in an approach to combining both reasoning techniques in order to infer new conclusions from existing data. 
 
 You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
-**may u needs ✨**
+**You can download my resume via the below button. ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
