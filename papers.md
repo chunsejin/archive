@@ -1,8 +1,8 @@
 ---
-title: Research
-permalink: /research/
+title: Papers published and presented  
+permalink: /papers/
 layout: page
-excerpt: research goal and area 
+excerpt: my research papers
 comments: false
 ---
 

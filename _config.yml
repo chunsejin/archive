@@ -21,7 +21,7 @@ author:
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
   email: chunsejin@gmail.com # email adress
-  avatar: /assets/img/logo.jpg # change with your own avatar
+  avatar: /assets/img/logo.png # change with your own avatar
 
 # URL settings
 url: "http://www.sejinchun.com" #

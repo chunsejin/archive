@@ -11,8 +11,4 @@ I’m Sejin Chun as a computer scientist. From March 2020, I am going to join an
 My primary research is reasoning over knowledge graphs. Reasoning can either deduct necessary knowledge with given conclusions([deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)) or induce possible conclusions from some evidence([inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)).
 I am interested in an approach to combining both reasoning techniques in order to infer new conclusions from existing data. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**You can download my resume via the below button. ✨**
-
 - {{ site.author.email }}
