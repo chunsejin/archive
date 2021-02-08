@@ -6,4 +6,4 @@ categories: blog update
 tags: [news]
 ---
 
-I opened a new personal webpage! 
+I opened a new personal space on the Web!  

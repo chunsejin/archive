@@ -13,8 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Sejin Chun # author name
   bio: >- # tell to the world
-    The computer scientist **Sejin Chun** who teaches relevant lecture and
-    focuses oo investigation about blending AI/ML with stream processing
+    The computer scientist **Sejin Chun** loves to
+    investigate how to blend AI/ML with the stream processing
     to solve complex, dynamic real-world problems.
   username: sejinchun # general username
   github: github_username # github username
