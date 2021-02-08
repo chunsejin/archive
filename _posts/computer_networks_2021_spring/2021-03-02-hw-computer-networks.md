@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Homework #1 컴퓨터네트워크"
-date:   2021-03-02 00:00:00 +0700
+date:   2021-02-05 00:00:00 +0700
 categories: blog update
 tags: [news, homework, lecture]
 ---
