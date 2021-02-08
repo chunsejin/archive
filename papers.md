@@ -1,5 +1,5 @@
 ---
-title: Papers published and presented  
+title: Publications and presentations.  
 permalink: /papers/
 layout: page
 excerpt: my research papers

@@ -1,5 +1,5 @@
 # Site settings
-title: Sejin Chun,Computer scientist  # site title
+title: Sejin Chun, Computer scientist  # site title
 description: >- # site description
   He's investigating on knowledge representation and reasoning.
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -33,6 +33,8 @@ fb_appid:
 # Collection setting
 collections:
   posts:
+    output: true
+  journals:
     output: true
 
 # Markdown settings
