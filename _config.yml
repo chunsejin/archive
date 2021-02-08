@@ -34,8 +34,12 @@ fb_appid:
 collections:
   posts:
     output: true
-  journals:
-    output: true
+#  journals:
+#    output: true
+#  talks:
+#    output: true
+#  patents:
+#    output: true
 
 # Markdown settings
 markdown: kramdown

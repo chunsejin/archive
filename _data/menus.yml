@@ -22,9 +22,9 @@
   url: /archive/
   external: false # set true if you using external link, see below
 
-- title: journals
-  url: /journals/
-  external: false # set true if you using external link, see below
+#- title: journals
+#  url: /journals/
+#  external: false # set true if you using external link, see below
 
 
 # Example:
