@@ -36,6 +36,7 @@ collections:
     output: true
   lectures:
     output: true
+    sorted_by: key
   journals:
     output: true
 #  talks:
