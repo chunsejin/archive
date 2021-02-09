@@ -34,6 +34,8 @@ fb_appid:
 collections:
   posts:
     output: true
+  lectures:
+    output: true
 #  journals:
 #    output: true
 #  talks:

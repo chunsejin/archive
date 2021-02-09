@@ -14,17 +14,17 @@
   url: /papers/
   external: false
 
-- title: lecture
-  url: /lecture/
+- title: lectures
+  url: /lectures/
   external: false # set true if you using external link, see below
 
 - title: archive
   url: /archive/
   external: false # set true if you using external link, see below
 
-#- title: journals
-#  url: /journals/
-#  external: false # set true if you using external link, see below
+- title: journals
+  url: /journals/
+  external: false # set true if you using external link, see below
 
 
 # Example:
