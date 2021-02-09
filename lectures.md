@@ -1,8 +1,8 @@
 ---
-title: Lecture
-permalink: /lecture/
+title: Lectures
+permalink: /lectures/
 layout: page
-excerpt: lecture 
+excerpt: lectures 
 comments: false
 ---
 
