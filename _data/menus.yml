@@ -14,9 +14,9 @@
   url: /papers/
   external: false
 
-#- title: lectures
-#  url: /lectures/
-#  external: false # set true if you using external link, see below
+- title: lectures
+  url: /lectures/
+  external: false # set true if you using external link, see below
 
 - title: archive
   url: /archive/
