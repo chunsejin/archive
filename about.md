@@ -11,4 +11,8 @@ I’m Sejin Chun as computer scientist. From March 2020, I am going to join an a
 My primary research is reasoning over knowledge graphs. Reasoning can either deduct necessary knowledge with given conclusions([deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)) or induce possible conclusions from some evidence([inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)).
 I am interested in an approach to combining both reasoning techniques in order to infer new conclusions from existing data. 
 
-- chunsejin at gmail.com
+Email 📧 : chunsejin at gmail.com
+
+Office's Location 🏢 :
+> (Kor) 부산광역시 사하구 낙동대로 550번길 37(하단동) 동아대학교 공과대학 컴퓨터공학과  
+> (Eng) `Dept. Computer Engineering Bldg. S06, Dong-A University, Pusan, Republic of Korea`

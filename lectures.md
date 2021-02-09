@@ -6,14 +6,6 @@ excerpt: lectures
 comments: false
 ---
 
-* **Data structure**, Spring semester 2021 ([Lecture materials](/lectures/2021-spring-data-structure/))
-* **Computer networks**, Spring semester 2021
-
-{% for lecture in site.lectures %}
-<h2>
-<a href="{{ lecture.url }}">
-{{ lecture.name }}
-</a>
-</h2>
-{% endfor %}
-
+## 2021 Spring
+* **Data structure**(데이터 구조) ([Lecture materials](/lectures/2021-SPR/data-structures/))
+* **Computer networks**(컴퓨터 네트워크) ([Lecture materials](/lectures/2021-SPR/computer-network/))
