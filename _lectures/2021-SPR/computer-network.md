@@ -1,17 +1,29 @@
 ---
 layout: page
-name: Computer network (데이터 구조)
+name: Computer network (컴퓨터 네트워크)
 title: Computer network ( 2021 Spring )
 update_date: 2021-02-01 00:00:00 +0700
 ---
 
-Course description
+컴퓨터 네트워크에 대한 강의자료입니다. 강의에 대한 소개 자료(Course description)는 여기를 클릭해서 다운로드받으세요.
 
 
 ## Table of Contents
-1. Introduction
-2. 
-
 | Week | Topic | Slides |
-|:--------|:-------:|--------:|
-| 1 | 
+|:--------:|:-------:|:--------:|
+|1|컴퓨터네트워크에 대한 개요|
+|2|컴퓨터 네트워크에 대한 개요|
+|3| 응용 계층(Application Layer)
+|4| 응용 계층(Application Layer)
+|5| 응용 계층(Application Layer)
+|6| 전달 계층(Transport Layer) |
+|7|전달 계층(Transport Layer)|
+|8| 중간고사(Midterm exam |
+|9| 네트워크 데이터 평면(Network Data Plane)
+|10| 네트워크 데이터 평면(Network Data Plane)
+|11| 링크 계층(Link Layer)과 LAN |
+|12| 링크 계층(Link Layer)과 LAN | |
+|13| 무선 및 모바일 네트워크 |
+|14| 무선 및 모바일 네트워크 |
+|15| 기말고사(Final exam) |
+
