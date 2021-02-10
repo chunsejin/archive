@@ -16,4 +16,4 @@ Office's Location 🏢 :
 
 (Kor) 부산광역시 사하구 낙동대로 550번길 37(하단동) 동아대학교 공과대학 컴퓨터공학과  
 
-(Eng) `Dept. Computer Engineering Bldg. S06, Dong-A University, Pusan, Republic of Korea`
+(Eng) Dept. Computer Engineering Bldg. S06, Dong-A University, Pusan, Republic of Korea
