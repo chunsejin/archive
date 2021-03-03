@@ -7,6 +7,11 @@ update_date: 2021-02-01 00:00:00 +0700
 
 컴퓨터 네트워크에 대한 강의자료입니다. 강의에 대한 소개 자료(Course description)는 여기를 클릭해서 다운로드받으세요.
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 ## Table of Contents
 | Week | Topic | Slides |
@@ -26,4 +31,5 @@ update_date: 2021-02-01 00:00:00 +0700
 |13| 무선 및 모바일 네트워크 |
 |14| 무선 및 모바일 네트워크 |
 |15| 기말고사(Final exam) |
+{: .tablelines}
 
