@@ -1,12 +1,10 @@
 ---
-title:  "Homework #1 컴퓨터네트워크"
+title:  "컴퓨터네트워크 강의자료 업로드"
 layout: page
-date:   2021-02-05 00:00:00 +0700
+date:   2021-03-03 00:00:00 +0700
 categories: blog update
 tags: [news, homework, lecture]
 ---
 
-Materials:
-
-Mission: 소켓통신을 사용하여 메세지를 개선하십시오.
+강의자료 1가 업로드 되었습니다. lecture 메뉴 참고하세요
 
