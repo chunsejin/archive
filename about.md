@@ -10,9 +10,9 @@ Sejin Chun is a computer scientist with a background in the theoretical knowledg
 
 My primary research is to study a [logical reasoning](https://en.wikipedia.org/wiki/Logical_reasoning) over [knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph). By using the logical reasoning, we can discover potential relationships among entities in the knowledge graph. Specifically, it can either deduct necessary knowledge with given conclusions([deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)) or induce possible conclusions from some evidence([inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)).
 
-Email 📧 : chunsejin at gmail.com
+Email 📧 : sjchun @ dau.ac.kr
 
-Office's Location 🏢 :
+Office's Location 🏢 : s06-0625
 
 (Kor) 부산광역시 사하구 낙동대로 550번길 37(하단동) 동아대학교 공과대학 컴퓨터공학과  
 
