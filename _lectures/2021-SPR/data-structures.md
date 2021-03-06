@@ -8,7 +8,7 @@ update_date: 2021-02-01 00:00:00 +0700
 데이터 구조에 대한 강의자료입니다. 강의에 대한 소개 자료(Course description)는 여기를 클릭해서 다운로드받으세요.
 
 ## Table of Contents
-1. 자료구조 소개 및 Python 언어 기본 내용 복습 
+1. 자료구조 소개 [slide](/assets/slides/21spr/data-structure/21spring-data-structures-1.pdf) 및 Python 언어 기본 내용 복습
 2. 추상 데이터 타입에 대한 학습 
 3. 배열(Array) 
 4. 집합(Sets)과 맵(Map) 자료구조
