@@ -1,7 +1,7 @@
 ---
 title:  "members 및 projects 메뉴 업데이트"
 layout: page
-date:   2021-03-03 00:00:00 +0700
+date:   2021-06-29 00:00:00 +0700
 categories: blog update
 tags: [news]
 ---
