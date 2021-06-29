@@ -12,7 +12,7 @@ My primary research is to study a [logical reasoning](https://en.wikipedia.org/w
 
 Email 📧 : sjchun @ dau.ac.kr
 
-Office's Location 🏢 : s06-0625
+Office's Location 🏢 : RS06-0625
 
 (Kor) 부산광역시 사하구 낙동대로 550번길 37(하단동) 동아대학교 공과대학 컴퓨터공학과  
 

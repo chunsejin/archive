@@ -8,6 +8,7 @@ comments: false
 
 ## Journals
 
+1. Byungkook Oh, Jimin Hwang, Seungmin Seo, Sejin Chun, and Kyong-Ho Lee, "Inductive Gaussian Representation of User-Specific Information for Personalized Stress-Level Prediction," Expert Systems With Applications (ESWA) (accepted)
 1. Sejin Chun, Jooik Jung, and Kyong-Ho Lee, "Proactive Policy for Efficiently Updating Join Views on Continuous Queries over Data Streams and Linked Data", IEEE Access, Vol. 7, pp. 86226-86241, 2019
 1. Xiongnan Jin, Jooik Jung, Sejin Chun, Seungjun Yoon and Kyong-Ho Lee,"SECoG: Semantically Enhanced Mashup of CoAP-based IoT Services" Service Oriented Computing and Applications, Vol. 13, No. 1, 2019
 1. Sejin Chun, Seungjun Yoon, Jooik Jung, and Kyong-Ho Lee, "Planning Operators of Concurrent RDF Stream Processing Queries," International Journal of Web and Grid Services (IJWGS), Vol. 15. No. 1, 2019
