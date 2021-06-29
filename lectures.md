@@ -6,6 +6,8 @@ excerpt: lectures
 comments: false
 ---
 
-## 2021 Spring
-* **Data structure**(데이터 구조 01,02) ([Lecture materials](/lectures/2021-SPR/data-structures/))
-* **Computer networks**(컴퓨터 네트워크 01,02) ([Lecture materials](/lectures/2021-SPR/computer-network/))
+## 2022 FW
+
+## 2021 SS
+* **Data structure**(데이터 구조)
+* **Computer networks**(컴퓨터 네트워크) 
