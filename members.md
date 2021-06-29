@@ -1,6 +1,6 @@
 ---
-title: Teams
-permalink: /teams/
+title: Members
+permalink: /members/
 layout: page
 excerpt: research teams 
 comments: false
@@ -22,10 +22,10 @@ comments: false
 * 윤수빈 (UG)
 
 ### Knowledge stream processing
-* 아짐존 안바로비치 미르조에 (undergraduate intern)
+* 아짐존 안바로비치 미르조에 (UG)
 
 ### Research & applications 
-* 신상용
-* 박지원
-* 김다혜
-* 장윤재
+* 신상용 (UG)
+* 박지원 (UG)
+* 김다혜 (UG)
+* 장윤재 (UG)
