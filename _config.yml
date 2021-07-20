@@ -27,7 +27,7 @@ author:
 url: "http://www.sejinchun.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "UA-73781562-1"
 fb_appid:
 
 # Collection setting
